@@ -1,5 +1,7 @@
 
 # 🛒 Super Store Sales Dashboard
+![image](https://github.com/user-attachments/assets/4bd162d9-ec50-4df4-aff9-007e90ef793b)
+
 
 ## 📈 Objective
 The goal of this project is to utilize time series analysis to provide valuable insights and accurate sales forecasting, empowering businesses to make informed decisions and optimize their sales strategies.
